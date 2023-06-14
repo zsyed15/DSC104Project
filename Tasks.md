@@ -28,7 +28,7 @@
 
 3) Find the N highest rated business in a city that contain a specific hashtag
 
-4) Find top 10 hashtags that are associated with a specific business id 
+4) Find top N hashtags that are associated with a specific business id 
 
 #### Terin
 5) Given a certain category, what are the top hashtags for that category
